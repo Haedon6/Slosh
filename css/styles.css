@@ -98,19 +98,19 @@ button:hover {
     margin: 0;
 }
 
-/* Home Section*/
-.home p {
+/* Welcome Section */
+.welcome p {
     margin: 1.25rem;
     line-height: 1.6;
 }
 
-.home img {
+.welcome img {
     max-width: 21.875rem;
     max-height: 21.875rem;
     margin: 1.25rem;
 }
 
-.home-content {
+.welcome-content {
     display: flex;
     justify-content: space-between;
     margin-left: 6.25rem;
@@ -119,7 +119,7 @@ button:hover {
     background-color: #f28500;
 }
 
-.home button {
+.welcome button {
     margin: auto;
     margin-bottom: 3.75rem;
     margin-top: 1.25rem;
@@ -284,7 +284,7 @@ footer p {
     max-width: 50%;
    }
 
-   .home-content, .about-content, .subscribe-content {
+   .welcome-content, .about-content, .subscribe-content {
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -318,7 +318,7 @@ footer p {
         margin-bottom: 1.25rem;
     }
 
-    .home-content, .about-content, .subscribe-content {
+    .welcome-content, .about-content, .subscribe-content {
         margin-left: 1.25rem;
         margin-right: 1.25rem;
     }
