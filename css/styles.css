@@ -368,7 +368,7 @@ footer p {
         grid-template-columns: 1fr;
     }
 
-    .about, .drink img {
+    .about img, .drink img {
         max-width: 18.75rem;
         max-height: 18.75rem;
     }
